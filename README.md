@@ -15,4 +15,4 @@ All the books is collected from network. These books can be free downloaded from
 	
 	
 	
-#[HMMP]: ./books/How-to-Make-Mistakes-in-Python.pdf
+[HMMP]: ./books/How-to-Make-Mistakes-in-Python.pdf
