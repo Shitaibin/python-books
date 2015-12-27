@@ -5,7 +5,7 @@ All the books is collected from network. These books can be free downloaded from
 
 # Contents
 
-	* [How to Make Mistakes in Python][How to Make Mistakes in Python] [website][http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp]
+	* [How to Make Mistakes in Python][HMMP] [website][http://www.oreilly.com/programming/free/how-to-make-mistakes-in-python.csp]
 	
 	
 	
@@ -15,4 +15,4 @@ All the books is collected from network. These books can be free downloaded from
 	
 	
 	
-#[How to Make Mistakes in Python]:./books/How-to-Make-Mistakes-in-Python.pdf
+#[HMMP]: ./books/How-to-Make-Mistakes-in-Python.pdf
